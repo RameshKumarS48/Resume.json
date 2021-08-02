@@ -55,10 +55,35 @@
 
      ],
 	
-     "interests": [{
-		"name": "Writing",
-		"keywords": ["Content", "Technical Blogs"]
-	}],
-	"references": []
+     "languages": [
+        {
+            "language": "English",
+            "fluency": "Professional"
+        },
+	     {
+            "language": "Hindi",
+            "fluency": "Professional"
+        },
+	     {
+            "language": "Telegu",
+            "fluency": "Native"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Writing",
+            "keywords": [
+                "Blogs"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		"Kabaddi"
+            ]
+        }
+    ],
+    "references": []
 }
-
