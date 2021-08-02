@@ -55,21 +55,9 @@
 
     
     ],
-    "interests": [
-        {
-            "name": "Writing",
-            "keywords": [
-                "Blogs"
-            ]
-        },
-        {
-            "name": "Playing",
-            "keywords": [
-                "Chess",
-                "Badminton",
-		"Kabaddi"
-            ]
-        }
-    ],
+  "interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton","Kabaddi"]
+	}],
     "references": []
 }
